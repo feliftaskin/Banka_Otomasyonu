@@ -1,0 +1,17 @@
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.GelirGiderRaporu.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.GirisEkrani.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.HesapOzet.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.Properties.Resources.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.YoneticiSayfasi.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.GenerateResource.cache
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe.config
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.exe
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\bin\Debug\BankaUygulamasi.pdb
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.exe
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.pdb
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.MusteriSayfasi.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.ParaTransferi.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.ParaYatirCek.resources
+C:\Users\90544\source\repos\BankaUygulamasi\BankaUygulamasi\obj\Debug\BankaUygulamasi.MusterilerVeHesaplar.resources
